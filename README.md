@@ -10,9 +10,7 @@ Task Manager is a simple Ruby on Rails application that allows users to create, 
   - [Installation](#installation)
   - [Database Setup](#database-setup)
 - [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
